@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Apr 04 10:31:26 ICT 2017
+2.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_volume.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\sound_preferences.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\toplevel.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefHeaders\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\mainmenu.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

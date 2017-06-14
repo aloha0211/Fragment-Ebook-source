@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_pizza_toppings">
+    <item>cheese</item>
+    <item>pepperoni</item>
+</string-array>
+    <string-array name="flight_sort_options">
+    <item>Total Cost</item>
+    <item># of Stops</item>
+    <item>Airline</item>
+</string-array>
+    <string-array name="flight_sort_options_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+    <string-array name="pizza_toppings">
+    <item>Cheese</item>
+    <item>Pepperoni</item>
+    <item>Onions</item>
+    <item>Portabello Mushrooms</item>
+    <item>Black Olives</item>
+    <item>Smoked Ham</item>
+    <item>Pineapple</item>
+</string-array>
+    <string-array name="pizza_toppings_values">
+    <item>cheese</item>
+    <item>pepperoni</item>
+    <item>onion</item>
+    <item>mushroom</item>
+    <item>olive</item>
+    <item>ham</item>
+    <item>pineapple</item>
+</string-array>
+    <string name="app_name">PrefDemo</string>
+    <string name="dialogTitle">Choose Flight Options</string>
+    <string name="flight_sort_option">flight_sort_option</string>
+    <string name="flight_sort_option_default_value">1</string>
+    <string name="listSummary">Set Search Options</string>
+    <string name="listTitle">Flight Options</string>
+    <string name="menu_prefs_title">Settings</string>
+    <string name="prefSummary">Set Flight Option Preferences</string>
+    <string name="prefTitle">My Preferences</string>
+</resources>

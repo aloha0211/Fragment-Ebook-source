@@ -1,0 +1,7 @@
+#Mon Apr 03 15:11:11 ICT 2017
+base.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_748d4cb42ea8708e14423822221543dd77028f3d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d8f0f2da79cdd260af4e79b8cbf75e994c6ae83\\classes.dex
+base.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d8f0f2da79cdd260af4e79b8cbf75e994c6ae83
+file.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_748d4cb42ea8708e14423822221543dd77028f3d\\classes.dex

@@ -1,0 +1,7 @@
+#Fri Mar 31 10:53:53 ICT 2017
+base.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6bd60cf797860d5d49b49f0499853a51e6242ee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e42ee79849a36db4e7dba894231ed75774b2a0c\\classes.dex
+base.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e42ee79849a36db4e7dba894231ed75774b2a0c
+file.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6bd60cf797860d5d49b49f0499853a51e6242ee\\classes.dex

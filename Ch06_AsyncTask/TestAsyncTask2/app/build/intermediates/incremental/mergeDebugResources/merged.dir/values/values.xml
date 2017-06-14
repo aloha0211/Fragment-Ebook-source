@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_da_clear" type="id"/>
+    <string name="help">
+This is to test async task.
+</string>
+</resources>

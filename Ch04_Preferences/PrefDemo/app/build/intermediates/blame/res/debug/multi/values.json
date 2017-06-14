@@ -1,0 +1,283 @@
+[
+    {
+        "outputFile": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 15,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\prefvaluearrays.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 458,
+                        "endLine": 20,
+                        "endColumn": 15,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endLine": 10,
+                    "endColumn": 15,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\prefdisplayarrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 107,
+                        "endLine": 7,
+                        "endColumn": 15,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endLine": 15,
+                    "endColumn": 15,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\prefvaluearrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 105,
+                        "endLine": 7,
+                        "endColumn": 15,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endLine": 24,
+                    "endColumn": 15,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\prefdisplayarrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 246,
+                        "endLine": 16,
+                        "endColumn": 15,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endLine": 33,
+                    "endColumn": 15,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\prefvaluearrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 227,
+                        "endLine": 16,
+                        "endColumn": 15,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endColumn": 45,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 45,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 61,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 61,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 65,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 65,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 62,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 62,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1167,
+                    "endColumn": 58,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 58,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 52,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 52,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 53,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 53,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 69,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 69,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endColumn": 52,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch04_Preferences\\PrefDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 52,
+                        "endOffset": 195
+                    }
+                }
+            }
+        ]
+    }
+]

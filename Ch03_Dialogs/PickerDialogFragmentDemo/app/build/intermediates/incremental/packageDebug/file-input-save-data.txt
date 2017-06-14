@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Apr 03 15:11:11 ICT 2017
+2.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d8f0f2da79cdd260af4e79b8cbf75e994c6ae83\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_748d4cb42ea8708e14423822221543dd77028f3d\\classes.dex
+5.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d8f0f2da79cdd260af4e79b8cbf75e994c6ae83
+1.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=DEX
+0.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_748d4cb42ea8708e14423822221543dd77028f3d
+3.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+0.set=DEX

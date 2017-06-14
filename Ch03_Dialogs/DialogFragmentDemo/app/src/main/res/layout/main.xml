@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- /res/layout/main.xml -->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/textViewId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:scrollbarFadeDuration="0"
+            android:scrollbarSize="25dip"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="vertical"
+            android:text="@string/help_text"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            />
+
+        <FrameLayout
+            android:id="@+id/embeddedDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</ScrollView>

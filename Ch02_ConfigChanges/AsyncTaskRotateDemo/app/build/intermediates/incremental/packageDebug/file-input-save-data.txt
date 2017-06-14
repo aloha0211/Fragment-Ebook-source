@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Mar 31 10:53:53 ICT 2017
+2.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e42ee79849a36db4e7dba894231ed75774b2a0c
+6.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6bd60cf797860d5d49b49f0499853a51e6242ee\\classes.dex
+5.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v4\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6bd60cf797860d5d49b49f0499853a51e6242ee
+3.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e42ee79849a36db4e7dba894231ed75774b2a0c\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\AsyncTaskRotateDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=DEX

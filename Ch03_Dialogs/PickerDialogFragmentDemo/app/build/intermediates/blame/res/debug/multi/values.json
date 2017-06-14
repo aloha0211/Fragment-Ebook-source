@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "C:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\PickerDialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

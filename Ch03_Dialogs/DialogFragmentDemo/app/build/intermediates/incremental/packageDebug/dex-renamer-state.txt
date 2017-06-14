@@ -1,0 +1,7 @@
+#Mon Apr 03 14:37:35 ICT 2017
+base.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\DialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8330704303f7d83beb9d53d50c966554560082a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\DialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_61b57f1b38ebf5997f7c1cfea2fb618b7df05e7e\\classes.dex
+base.1=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\DialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_61b57f1b38ebf5997f7c1cfea2fb618b7df05e7e
+file.0=C\:\\Users\\GamePC\\AndroidStudioProjects\\Learning Android\\Apress Fragment\\Source Code Android Studio\\Ch03_Dialogs\\DialogFragmentDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8330704303f7d83beb9d53d50c966554560082a7\\classes.dex
